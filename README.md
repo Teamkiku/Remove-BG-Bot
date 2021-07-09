@@ -1,3 +1,10 @@
+## Support 🚑
+<a href="https://t.me/Tgxbots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/TgxSupportChat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+
+
+
 # Remove-BG-Bot
 
 A photo background remover telegram bot with pyrogram framework.
@@ -6,9 +13,9 @@ A photo background remover telegram bot with pyrogram framework.
 
 ```
 Made with Python3
-(C) @FayasNoushad
+(C) @tgxbots
 Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Remove-BG-Bot/blob/main/LICENSE
+License -> https://github.com/kikuseller/Remove-BG-Bot/blob/main/LICENSE
 ```
 
 ---
@@ -19,7 +26,7 @@ License -> https://github.com/FayasNoushad/Remove-BG-Bot/blob/main/LICENSE
   <summary><b>Deploy on Heroku</b></summary>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Remove-BG-Bot">
+  <a href="https://heroku.com/deploy?template=https://github.com/kikuseller/Remove-BG-Bot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -30,7 +37,7 @@ License -> https://github.com/FayasNoushad/Remove-BG-Bot/blob/main/LICENSE
   <summary><b>Deploy in your vps</b></summary>
 
 ```sh
-git clone https://github.com/FayasNoushad/Remove-BG-Bot
+git clone https://github.com/kikuseller/Remove-BG-Bot
 cd Remove-BG-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -54,8 +61,3 @@ python3 main.py
 </details>
 
 ---
-
-## Credits
-
-- [Fayas Noushad](https://github.com/FayasNoushad)
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
