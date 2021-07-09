@@ -15,7 +15,7 @@ A photo background remover telegram bot with pyrogram framework.
 Made with Python3
 (C) @tgxbots
 Copyright permission under MIT License
-License -> https://github.com/kikuseller/Remove-BG-Bot/blob/main/LICENSE
+License -> https://github.com/kikuseller/remove/blob/main/LICENSE
 ```
 
 ---
@@ -26,7 +26,7 @@ License -> https://github.com/kikuseller/Remove-BG-Bot/blob/main/LICENSE
   <summary><b>Deploy on Heroku</b></summary>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/kikuseller/Remove-BG-Bot">
+  <a href="https://heroku.com/deploy?template=https://github.com/kikuseller/Remove">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -37,7 +37,7 @@ License -> https://github.com/kikuseller/Remove-BG-Bot/blob/main/LICENSE
   <summary><b>Deploy in your vps</b></summary>
 
 ```sh
-git clone https://github.com/kikuseller/Remove-BG-Bot
+git clone https://github.com/kikuseller/Remove
 cd Remove-BG-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
